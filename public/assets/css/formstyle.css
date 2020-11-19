@@ -1,0 +1,10 @@
+body{
+    font-family: 'poppins';
+}
+.register{
+    height: 100vh;
+    position: absolute;
+    right:0%;
+    width:50%;
+    background-color: #ffff;
+}
