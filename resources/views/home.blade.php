@@ -45,7 +45,7 @@ einfach-franz
        
       </li>-->
                   <li class="nav-item">
-                      <a class="btn btn-nav ">
+                      <a class="btn btn-nav" herf="https://calendly.com/einfach-franz/30?month=2020-11">
                         Termin buchen
                       </a>
                   </li>
